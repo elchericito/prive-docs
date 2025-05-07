@@ -1,7 +1,8 @@
 ---
 description: >-
-  Installing and onboarding with Recurly Commerce is a seamless process, whether you are new to subscriptions or migrating. If you have any questions about the
-  process, contact your CSM or support@recurly.com.
+  Installing and onboarding with Recurly Commerce is a seamless process, whether
+  you are new to subscriptions or migrating. If you have any questions about the
+  process, contact your CSM or support@recur
 ---
 
 # 🛠️ Installing & Onboarding to Recurly Commerce
@@ -35,9 +36,9 @@ To purchase a plan:
 
 <details>
 
-<summary>Step 3: Creating a subscription plan </summary>
+<summary>Step 3: Creating a subscription plan</summary>
 
-With Recurly Commerce, you can create a subscription offer in minutes, which will feed into your storefront widget where your customers can add a subscription product to cart. See below for steps to create your subscription plans.&#x20;
+With Recurly Commerce, you can create a subscription offer in minutes, which will feed into your storefront widget where your customers can add a subscription product to cart. See below for steps to create your subscription plans.
 
 [creating-a-subscription-plan.md](../creating-and-editing-subscription-plans/creating-a-subscription-plan.md "mention")
 
@@ -45,9 +46,9 @@ With Recurly Commerce, you can create a subscription offer in minutes, which wil
 
 <details>
 
-<summary>Step 4: Setting up your storefront </summary>
+<summary>Step 4: Setting up your storefront</summary>
 
-With Recurly Commerce, setting up your storefront includes insuring the subscription purchase widget is appearing correctly on your e-commerce site PDPs. To set up your storefront properly refer to the guide below.&#x20;
+With Recurly Commerce, setting up your storefront includes insuring the subscription purchase widget is appearing correctly on your e-commerce site PDPs. To set up your storefront properly refer to the guide below.
 
 [setting-up-your-storefront.md](../storefront/setting-up-your-storefront.md "mention")
 
@@ -55,9 +56,9 @@ With Recurly Commerce, setting up your storefront includes insuring the subscrip
 
 <details>
 
-<summary>Step 5: Configuring comms </summary>
+<summary>Step 5: Configuring comms</summary>
 
-Recurly Commerce offers transactional email and SMS notifications at no additional cost to communicate with subscribers at every stage of their subscription journey. These communications are not for marketing purposes. Learn more about configuring comms below.&#x20;
+Recurly Commerce offers transactional email and SMS notifications at no additional cost to communicate with subscribers at every stage of their subscription journey. These communications are not for marketing purposes. Learn more about configuring comms below.
 
 [enabling-transactional-emails.md](../notifications/enabling-transactional-emails.md "mention")
 

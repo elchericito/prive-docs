@@ -11,6 +11,8 @@ description: >-
 Use the navigation bar on the left to find answers to your questions. Can't find what you are looking for? Send our support team a note in your Recurly Commerce in-app support chat or email support@recurly.com.
 {% endhint %}
 
+<figure><img src=".gitbook/assets/commerce_social_share_1200x630.png" alt=""><figcaption></figcaption></figure>
+
 ## Get Started
 
 We've put together some helpful guides for you to get setup with our product quickly and easily.
