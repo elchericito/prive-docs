@@ -1,6 +1,8 @@
 ---
 description: >-
-  Excited you are here. In this knowledge base we share the most important infoinfo and tips to help grow, retain, and build a long-term relationship with info subscribers.
+  Excited you are here. In this knowledge base we share the most important
+  infoinfo and tips to help grow, retain, and build a long-term relationship
+  with info subscribers.
 ---
 
 # 👋 Welcome to Recurly Commerce
@@ -25,9 +27,9 @@ We've put together some helpful guides for you to get setup with our product qui
 [creating-a-subscription-plan.md](creating-and-editing-subscription-plans/creating-a-subscription-plan.md)
 {% endcontent-ref %}
 
-## Storefront & Customer Portal&#x20;
+## Storefront & Customer Portal
 
-The basics for a delightful storefront and subscriber portal.&#x20;
+The basics for a delightful storefront and subscriber portal.
 
 {% content-ref url="storefront/setting-up-your-storefront.md" %}
 [setting-up-your-storefront.md](storefront/setting-up-your-storefront.md)
@@ -41,14 +43,10 @@ The basics for a delightful storefront and subscriber portal.&#x20;
 [editing-the-customer-portal.md](customer-portal/editing-the-customer-portal.md)
 {% endcontent-ref %}
 
-## Recurly Commerce Admin 101&#x20;
+## Recurly Commerce Admin 101
 
-Some quick places to start in the Recurly Commerce admin&#x20;
+Some quick places to start in the Recurly Commerce admin
 
 {% content-ref url="managing-subscriptions/editing-subscriptions-for-your-subscribers.md" %}
 [editing-subscriptions-for-your-subscribers.md](managing-subscriptions/editing-subscriptions-for-your-subscribers.md)
-{% endcontent-ref %}
-
-{% content-ref url="broken-reference" %}
-[Broken link](broken-reference)
 {% endcontent-ref %}
