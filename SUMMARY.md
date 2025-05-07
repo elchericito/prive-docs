@@ -48,9 +48,9 @@
 ## Managing your Settings
 
 * [💸 Managing payment failures & dunning](managing-your-settings/managing-payment-failures-and-dunning.md)
-* [🌠 Changing your Prive Plan](managing-your-settings/changing-your-prive-plan.md)
+* [🌠 Changing your Recurly CommercePlan](managing-your-settings/changing-your-prive-plan.md)
 
-## Prive functionality in Shopify Admin
+## Recurly Commercefunctionality in Shopify Admin
 
 * [🛒 Fulfilling a subscription in Shopify](prive-functionality-in-shopify-admin/fulfilling-a-subscription-in-shopify.md)
 * [💳 Refunding a subscription in Shopify](prive-functionality-in-shopify-admin/refunding-a-subscription-in-shopify.md)

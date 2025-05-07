@@ -1,7 +1,7 @@
 # 💳 Refunding a subscription in Shopify
 
 {% hint style="info" %}
-All refunds should be handled in Shopify. Prive does not offer any refund configuration in the app because Prive leverages Shopify checkout. Once the order has gone through to Shopify payments all order refunds will occur in Shopify.
+All refunds should be handled in Shopify. Recurly Commercedoes not offer any refund configuration in the app because Recurly Commerceleverages Shopify checkout. Once the order has gone through to Shopify payments all order refunds will occur in Shopify.
 {% endhint %}
 
 There are 2 flows that you can use to find a subscription order that needs to be refunded.
@@ -16,7 +16,7 @@ There are 2 flows that you can use to find a subscription order that needs to be
 
 ### Refund Flow #2
 
-1. Navigate to the “Customers” tab of the Prive app.
+1. Navigate to the “Customers” tab of the Recurly Commerceapp.
 2. Search for the customer by name or email who needs to have their order refunded.
 3. Scroll down to the “order history” section of the subscription contract.
 4. Select the purple highlighted link of the order that needs to be refunded.

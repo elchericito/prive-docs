@@ -1,6 +1,6 @@
 ---
 description: >-
-  Navigate to the “Customers” tab in the Prive merchanportal and search for the
+  Navigate to the “Customers” tab in the Recurly Commercemerchanportal and search for the
   subscriber by their phone number, email address, or full name.
 ---
 
@@ -32,7 +32,7 @@ To change the phone number for a customer select the edit square above “Phone�
 
 To change a customer email address please reach out to [**cs@tryprive.com**](mailto:cs@tryprive.com)
 
-Subscribers nor merchants can make changes at this time to email addresses because the subscription contract is tied to the email address and is used to leverage the one-time password portal. Prive customer support can assist with this functionality should it be needed.
+Subscribers nor merchants can make changes at this time to email addresses because the subscription contract is tied to the email address and is used to leverage the one-time password portal. Recurly Commercecustomer support can assist with this functionality should it be needed.
 
 ### Set Delivery/Renewal
 
@@ -182,7 +182,7 @@ Once the button has been clicked a notification will appear confirming the email
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-11-08 at 10.31.21 AM.png" alt=""><figcaption></figcaption></figure>
 
-When the subscriber has completed the update with Shopify payments, the Prive system will update the subscription contract.
+When the subscriber has completed the update with Shopify payments, the Recurly Commercesystem will update the subscription contract.
 
 <figure><img src="../.gitbook/assets/ezgif.com-gif-maker.gif" alt=""><figcaption></figcaption></figure>
 

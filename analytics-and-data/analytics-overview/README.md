@@ -1,6 +1,6 @@
 ---
 description: >-
-  The Prive Subscriptions Analytics Overview provides comprehensive data to
+  The Recurly CommerceSubscriptions Analytics Overview provides comprehensive data to
   answer all of your key questions about your subscriptions business.
 ---
 

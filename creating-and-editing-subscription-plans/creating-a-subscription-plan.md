@@ -65,7 +65,7 @@ Select the “Confirm” button at the bottom of the page to save the changes.
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-12-13 at 12.40.15 PM.png" alt=""><figcaption></figcaption></figure>
 
-_**Note:** Prive does not stack discounts. If both a frequency discount and a special discount are configured, the special discounts will override the frequency discount for a limited time._ \*\*\*\*(i.e. A frequency discount for every 4 weeks with 10% off will not begin until the special discount of the first 3 orders is complete. On the customer’s 4th order the frequency discount of 10% every 4 weeks will begin.)
+_**Note:** Recurly Commercedoes not stack discounts. If both a frequency discount and a special discount are configured, the special discounts will override the frequency discount for a limited time._ \*\*\*\*(i.e. A frequency discount for every 4 weeks with 10% off will not begin until the special discount of the first 3 orders is complete. On the customer’s 4th order the frequency discount of 10% every 4 weeks will begin.)
 
 ### Set Free Shipping
 

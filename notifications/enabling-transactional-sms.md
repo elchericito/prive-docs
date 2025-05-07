@@ -1,6 +1,6 @@
 ---
 description: >-
-  Prive offers transactional emails at no additional cost to communicate with
+  Recurly Commerceoffers transactional emails at no additional cost to communicate with
   subscribers at every stage of their subscription journey. These communications
   are not for marketing purposes.
 ---
@@ -8,7 +8,7 @@ description: >-
 # 📱 Enabling transactional SMS
 
 {% hint style="info" %}
-Prive recommends toggling on no more than 3 SMS notifications for subscribers. (If a subscriber opts out of the SMS notifications they cannot opt back in unless the phone number is updated on their subscription contract.)
+Recurly Commercerecommends toggling on no more than 3 SMS notifications for subscribers. (If a subscriber opts out of the SMS notifications they cannot opt back in unless the phone number is updated on their subscription contract.)
 {% endhint %}
 
 The following 6 comms are available for SMS:
@@ -22,7 +22,7 @@ The following 6 comms are available for SMS:
 
 <figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption></figcaption></figure>
 
-The content of the Prive SMS notifications can be edited using our text editor.
+The content of the Recurly CommerceSMS notifications can be edited using our text editor.
 
 <figure><img src="../.gitbook/assets/image (11).png" alt=""><figcaption></figcaption></figure>
 

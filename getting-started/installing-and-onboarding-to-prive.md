@@ -1,6 +1,6 @@
 ---
 description: >-
-  Installing and onboarding with Prive is a seamless process, whether you are
+  Installing and onboarding with Recurly Commerceis a seamless process, whether you are
   new to subscriptions or migrating. If you have any questions about the
   process, contact your CSM or cs@tryprive.com.
 ---
@@ -9,9 +9,9 @@ description: >-
 
 <details>
 
-<summary>Step 1: Downloading the Prive app </summary>
+<summary>Step 1: Downloading the Recurly Commerceapp </summary>
 
-Prive is supported for both Shopify and Shopify Plus merchants. You can install the Prive app via the Shopify App store.
+Recurly Commerceis supported for both Shopify and Shopify Plus merchants. You can install the Recurly Commerceapp via the Shopify App store.
 
 * [Download the app here](https://apps.shopify.com/prive-subscriptions)
 
@@ -21,14 +21,14 @@ Prive is supported for both Shopify and Shopify Plus merchants. You can install 
 
 <summary>Step 2: Choosing a plan</summary>
 
-Prive currently has 3 different plans you can choose from based on the nature of your business, your growth goals, and feature needs. [See a plan comparison here](https://www.tryprive.com/pricing).
+Recurly Commercecurrently has 3 different plans you can choose from based on the nature of your business, your growth goals, and feature needs. [See a plan comparison here](https://www.tryprive.com/pricing).
 
 Once you have installed the app, you will need to purchase a plan in order to create a subscription.
 
 To purchase a plan:
 
-* Open the Prive app and navigate to the top right hand corner and click on “start trial”
-* Select the plan you want to purchase. You can upgrade at any time in the settings tab of the Prive app.
+* Open the Recurly Commerceapp and navigate to the top right hand corner and click on “start trial”
+* Select the plan you want to purchase. You can upgrade at any time in the settings tab of the Recurly Commerceapp.
 * You will then check-out on the plan via Shopify.
 * Once purchased, you will have full access to create and launch subscriptions.
 
@@ -58,7 +58,7 @@ With Prive, setting up your storefront includes insuring the subscription purcha
 
 <summary>Step 5: Configuring comms </summary>
 
-Prive offers transactional email and SMS notifications at no additional cost to communicate with subscribers at every stage of their subscription journey. These communications are not for marketing purposes. Learn more about configuring comms below.&#x20;
+Recurly Commerceoffers transactional email and SMS notifications at no additional cost to communicate with subscribers at every stage of their subscription journey. These communications are not for marketing purposes. Learn more about configuring comms below.&#x20;
 
 [enabling-transactional-emails.md](../notifications/enabling-transactional-emails.md "mention")
 

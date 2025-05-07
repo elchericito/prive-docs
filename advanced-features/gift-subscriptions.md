@@ -8,7 +8,7 @@ description: >-
 # 🎁 Gift Subscriptions
 
 {% hint style="info" %}
-To leverage Gift Subscriptions, visit the "Subscription Plans" tab of your Prive app and when creating or editing discount and cadence options, choose to toggle on "Add Gift Option" to enable.&#x20;
+To leverage Gift Subscriptions, visit the "Subscription Plans" tab of your Recurly Commerceapp and when creating or editing discount and cadence options, choose to toggle on "Add Gift Option" to enable.&#x20;
 {% endhint %}
 
 ### View E2E Gifting Experience&#x20;

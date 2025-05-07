@@ -6,7 +6,7 @@ Dunning is an automated payment management process that allows a merchant to set
 
 ### Dunning Configuration
 
-Prive offers configuration of the Dunning process in the “Settings” tab of the Prive portal. Merchants may choose from 3 Dunning options to implement for their subscribers and can choose whether contracts go into a paused or cancelled state once dunning is complete:
+Recurly Commerceoffers configuration of the Dunning process in the “Settings” tab of the Recurly Commerceportal. Merchants may choose from 3 Dunning options to implement for their subscribers and can choose whether contracts go into a paused or cancelled state once dunning is complete:
 
 1. **Prive’s Standard Dunning Setting**:
 
@@ -24,7 +24,7 @@ Subscription contracts will be automatically canceled when they complete dunning
 
 ### Payment Failure Notification
 
-The “**Failed payment method”** communication is a highly recommended transactional notification that can be configured on in the notifications tab of the Prive app. This comm notifies customers when their order could not be placed due to a payment failure and includes a link to their customer portal where the customer can login and reset their billing information.
+The “**Failed payment method”** communication is a highly recommended transactional notification that can be configured on in the notifications tab of the Recurly Commerceapp. This comm notifies customers when their order could not be placed due to a payment failure and includes a link to their customer portal where the customer can login and reset their billing information.
 
 <figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption></figcaption></figure>
 
@@ -32,7 +32,7 @@ The “**Failed payment method”** communication is a highly recommended transa
 
 As a merchant, while you cannot reset the billing information for the subscriber, you can navigate to the “customers” tab, select the subscriber in question, scroll down to the “Billing & Shipping” section of the subscription contract, and select the “send email to reset” button.
 
-This action will send an email to the subscriber where they will click a link that redirects them to update their billing information with Shopify payments. This will automatically update in the Prive system.
+This action will send an email to the subscriber where they will click a link that redirects them to update their billing information with Shopify payments. This will automatically update in the Recurly Commercesystem.
 
 <figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
 

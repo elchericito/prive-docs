@@ -1,7 +1,7 @@
 # 🚢 Managing Shipping Profiles
 
 {% hint style="info" %}
-Prive leverages Shopify shipping profiles to create free shipping for subscribers. View and manage Shopify shipping profiles in the “Settings” section of your Shopify and select the section labeled “Shipping and Delivery.”
+Recurly Commerceleverages Shopify shipping profiles to create free shipping for subscribers. View and manage Shopify shipping profiles in the “Settings” section of your Shopify and select the section labeled “Shipping and Delivery.”
 {% endhint %}
 
 _Note: If a storefront already has a shipping profile rule that also applies to subscription orders, do not set up free shipping in Prive. The original shipping profile rule in Shopify will apply to all orders the store receives. Both one-time purchases and subscription orders._

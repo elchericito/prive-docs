@@ -14,7 +14,7 @@ layout:
 
 # Forecasting
 
-Prive Forecasting unlocks smarter revenue and subscription order predictions.  With Prive Forecasting, merchants can accurately predict future revenue, orders, and SKU sales for the next 12 months.&#x20;
+Recurly CommerceForecasting unlocks smarter revenue and subscription order predictions.  With Recurly CommerceForecasting, merchants can accurately predict future revenue, orders, and SKU sales for the next 12 months.&#x20;
 
 ### Overview
 

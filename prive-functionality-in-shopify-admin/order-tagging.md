@@ -1,14 +1,14 @@
 # 🏷️ Order Tagging
 
 {% hint style="info" %}
-Prive leverages Shopify checkout so both one-time purchases and subscription orders appear together in the “orders” page of Shopify. Prive tags subscription orders so that merchants may differentiate them from one-time purchases or use them for analytics. Prive does not tag one-time purchase orders.
+Recurly Commerceleverages Shopify checkout so both one-time purchases and subscription orders appear together in the “orders” page of Shopify. Recurly Commercetags subscription orders so that merchants may differentiate them from one-time purchases or use them for analytics. Recurly Commercedoes not tag one-time purchase orders.
 {% endhint %}
 
 Note: If you are a Pro or Enterprise merchant contact: **cs@tryprive.com** to inquire about custom tags.
 
 ### Subscription Tag Types
 
-Depicted below are the 5 standard tags Prive utilizes for subscription orders:
+Depicted below are the 5 standard tags Recurly Commerceutilizes for subscription orders:
 
 | Subscription order           | Tagged on every single subscription order. This tag can be used to differentiate a one-time purchase from a subscription order.                                                                                                                 |
 | ---------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |

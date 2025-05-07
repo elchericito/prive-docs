@@ -8,7 +8,7 @@ description: >-
 # 👋 Welcome to Prive
 
 {% hint style="info" %}
-Use the navigation bar on the left to find answers to your questions. Can't find what you are looking for? Send our support team a note in your Prive in-app support chat or email cs@tryprive.com.
+Use the navigation bar on the left to find answers to your questions. Can't find what you are looking for? Send our support team a note in your Recurly Commercein-app support chat or email cs@tryprive.com.
 {% endhint %}
 
 ## Get Started
@@ -43,9 +43,9 @@ The basics for a delightful storefront and subscriber portal.&#x20;
 [editing-the-customer-portal.md](customer-portal/editing-the-customer-portal.md)
 {% endcontent-ref %}
 
-## Prive Admin 101&#x20;
+## Recurly CommerceAdmin 101&#x20;
 
-Some quick places to start in the Prive admin&#x20;
+Some quick places to start in the Recurly Commerceadmin&#x20;
 
 {% content-ref url="managing-subscriptions/editing-subscriptions-for-your-subscribers.md" %}
 [editing-subscriptions-for-your-subscribers.md](managing-subscriptions/editing-subscriptions-for-your-subscribers.md)

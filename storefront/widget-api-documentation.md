@@ -7,7 +7,7 @@
 
 ### Liquid Objects
 
-Prive subscription related data is available in Shopify liquid template objects
+Recurly Commercesubscription related data is available in Shopify liquid template objects
 
 * [Product](https://shopify.dev/api/liquid/objects#product)
 * [Selling Plan](https://shopify.dev/api/liquid/objects#selling_plan)

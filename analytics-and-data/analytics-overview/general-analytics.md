@@ -14,7 +14,7 @@ layout:
 
 # General Analytics
 
-The General tab of Prive Analytics shows a summary of key information which allows you to drill deeper into the data. For all data, you are able to select custom windows of time and compare the data to previous periods of time.&#x20;
+The General tab of Recurly CommerceAnalytics shows a summary of key information which allows you to drill deeper into the data. For all data, you are able to select custom windows of time and compare the data to previous periods of time.&#x20;
 
 **Total Gross Sales During Selected Period**
 
@@ -96,7 +96,7 @@ The number of new subscription orders that have been processed in the month (doe
 
 <summary>New Migrated Subscriptions </summary>
 
-Sum of new subscriptions that were migrated to Prive from other providers.
+Sum of new subscriptions that were migrated to Recurly Commercefrom other providers.
 
 </details>
 
@@ -112,7 +112,7 @@ The number of shoppers who have purchased a new subscription in the month.
 
 <summary>New Migrated Subscribers </summary>
 
-Sum of new subscribers who were migrated to Prive from other providers
+Sum of new subscribers who were migrated to Recurly Commercefrom other providers
 
 </details>
 
@@ -128,7 +128,7 @@ The number of active subscriptions at the end of the month, including subscripti
 
 <summary>Cancelled Subscriptions (ending)</summary>
 
-The number of subscriptions at the end of the month that are in a canceled state. This does not include paused subscriptions or subscriptions that are in dunning. Cancelled Subscriptions consist of subscriptions that have been actively cancelled, have been cancelled due to failed payments, or have been migrated into Prive as a cancelled subscription.
+The number of subscriptions at the end of the month that are in a canceled state. This does not include paused subscriptions or subscriptions that are in dunning. Cancelled Subscriptions consist of subscriptions that have been actively cancelled, have been cancelled due to failed payments, or have been migrated into Recurly Commerceas a cancelled subscription.
 
 </details>
 
@@ -136,7 +136,7 @@ The number of subscriptions at the end of the month that are in a canceled state
 
 <summary>Actively Cancelled Subscriptions (ending)</summary>
 
-The number of subscriptions at the end of the month that have been cancelled by the customer or by the merchant by clicking on “cancel subscription” in the Prive portal/merchant admin.
+The number of subscriptions at the end of the month that have been cancelled by the customer or by the merchant by clicking on “cancel subscription” in the Recurly Commerceportal/merchant admin.
 
 </details>
 
@@ -152,7 +152,7 @@ The number of subscriptions at the end of the month that have been cancelled bec
 
 <summary><strong>Migrated Cancelled Subscriptions (ending)</strong> </summary>
 
-Total subscriptions that were migrated to Prive from other providers as cancelled.
+Total subscriptions that were migrated to Recurly Commercefrom other providers as cancelled.
 
 Helps answer: "At the end of the month, how many migrated cancelled subscriptions did we have?"
 
@@ -235,5 +235,5 @@ The Subscription Daily Summary provides a day by day breakdown for all of the su
 The Subscriber Daily Summary provides a day by day breakdown for all of the subscriber related metrics found in the Executive Report. For metric definitions, see "Monthly Executive Report" above.&#x20;
 
 {% hint style="info" %}
-All data is shown in the timezone of your store and may differ from Shopify's analytics timezone and data aggregation cutoffs. Shopify and Prive analytics will not match 1-1 due to different policy decisions. This does not mean the data from either source is incorrect.&#x20;
+All data is shown in the timezone of your store and may differ from Shopify's analytics timezone and data aggregation cutoffs. Shopify and Recurly Commerceanalytics will not match 1-1 due to different policy decisions. This does not mean the data from either source is incorrect.&#x20;
 {% endhint %}
