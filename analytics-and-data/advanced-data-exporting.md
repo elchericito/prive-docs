@@ -5,12 +5,12 @@ description: Export all your important subscription data easily into a CSV
 # ⬇️ Advanced Data Exporting
 
 {% hint style="info" %}
-Recurly Commerceoffers advanced data exports in both the “Subscription Contracts” tab and the “Settings” tab of the Recurly Commerceapp. These exports depict all subscriber data from names, emails, billing and shipping addresses, frequencies, next order dates, and more.
+Recurly Commerce offers advanced data exports in both the “Subscription Contracts” tab and the “Settings” tab of the Recurly Commerce app. These exports depict all subscriber data from names, emails, billing and shipping addresses, frequencies, next order dates, and more.
 {% endhint %}
 
 ## Reports Available for Export Overview
 
-Navigate to "Settings" in the side navigation of your Recurly Commerceadmin account. Scroll to the bottom of the settings page to see reports available for export.&#x20;
+Navigate to "Settings" in the side navigation of your Recurly Commerce admin account. Scroll to the bottom of the settings page to see reports available for export.&#x20;
 
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
@@ -52,7 +52,7 @@ Historical reports include source of truth data on what has occured or been proc
 
 <summary>Orders (Historical) </summary>
 
-* Contains a list of orders that were placed through the Recurly Commercesystem.
+* Contains a list of orders that were placed through the Recurly Commerce system.
 * Each row represents a unique order as per orderId. Each order is associated with a contract.
 * You can calculate things like AOV by averaging over the chargeAmount (where chargeAmount = price+shipping+tax). The chargeAmount is the total amount the customer was charged for the order
 

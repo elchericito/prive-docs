@@ -1,14 +1,13 @@
 ---
 description: >-
-  Recurly Commerceoffers transactional emails at no additional cost to communicate with
-  subscribers at every stage of their subscription journey. These communications
+  Recurly Commerce offers transactional emails at no additional cost to communicate with subscribers at every stage of their subscription journey. These communications
   are not for marketing purposes.
 ---
 
 # 📪 Enabling transactional emails
 
 {% hint style="info" %}
-Recurly Commercerecommends toggling on 4 or more email notifications so your subscribers are always in the loop and customer support inbound is not a headache for your team.
+Recurly Commerce recommends toggling on 4 or more email notifications so your subscribers are always in the loop and customer support inbound is not a headache for your team.
 {% endhint %}
 
 The following 7 comms are available for email:
@@ -24,7 +23,7 @@ The following 7 comms are available for email:
 
     <figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
 
-The content of the Recurly Commerceemail notifications can be edited using our rich text editor. Insert images, change fonts, colors, or insert html source code.
+The content of the Recurly Commerce email notifications can be edited using our rich text editor. Insert images, change fonts, colors, or insert html source code.
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 

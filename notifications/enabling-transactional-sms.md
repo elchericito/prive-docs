@@ -1,6 +1,6 @@
 ---
 description: >-
-  Recurly Commerceoffers transactional emails at no additional cost to communicate with
+  Recurly Commerce offers transactional emails at no additional cost to communicate with
   subscribers at every stage of their subscription journey. These communications
   are not for marketing purposes.
 ---

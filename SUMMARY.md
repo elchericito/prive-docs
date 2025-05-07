@@ -48,7 +48,7 @@
 ## Managing your Settings
 
 * [💸 Managing payment failures & dunning](managing-your-settings/managing-payment-failures-and-dunning.md)
-* [🌠 Changing your Recurly CommercePlan](managing-your-settings/changing-your-prive-plan.md)
+* [🌠 Changing your Recurly Commerce Plan](managing-your-settings/changing-your-prive-plan.md)
 
 ## Recurly Commercefunctionality in Shopify Admin
 

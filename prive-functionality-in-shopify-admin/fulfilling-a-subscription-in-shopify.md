@@ -1,7 +1,7 @@
 # 🛒 Fulfilling a subscription in Shopify
 
 {% hint style="info" %}
-All order fulfillment should be handled in Shopify. Recurly Commercedoes not offer any order fulfillment configuration in the app because Recurly Commerceleverages Shopify payments. Once the order has gone through to Shopify payments all order fulfillment will occur in Shopify.
+All order fulfillment should be handled in Shopify. Recurly Commerce does not offer any order fulfillment configuration in the app because Recurly Commerce leverages Shopify payments. Once the order has gone through to Shopify payments all order fulfillment will occur in Shopify.
 {% endhint %}
 
 ## Fulfilling a subscription order in Shopify

@@ -1,8 +1,6 @@
 ---
 description: >-
-  WithRecurly Commerce, you can create a subscription offer in minutes, which will feed
-  into your storefront widget where your customers can add a subscription
-  product to cart.
+  With Recurly Commerce, you can create a subscription offer in minutes, which will feed into your storefront widget where your customers can add a subscription   product to cart.
 ---
 
 # ➕ Creating a subscription plan
@@ -65,7 +63,7 @@ Select the “Confirm” button at the bottom of the page to save the changes.
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-12-13 at 12.40.15 PM.png" alt=""><figcaption></figcaption></figure>
 
-_**Note:** Recurly Commercedoes not stack discounts. If both a frequency discount and a special discount are configured, the special discounts will override the frequency discount for a limited time._ \*\*\*\*(i.e. A frequency discount for every 4 weeks with 10% off will not begin until the special discount of the first 3 orders is complete. On the customer’s 4th order the frequency discount of 10% every 4 weeks will begin.)
+_**Note:** Recurly Commerce does not stack discounts. If both a frequency discount and a special discount are configured, the special discounts will override the frequency discount for a limited time._ \*\*\*\*(i.e. A frequency discount for every 4 weeks with 10% off will not begin until the special discount of the first 3 orders is complete. On the customer’s 4th order the frequency discount of 10% every 4 weeks will begin.)
 
 ### Set Free Shipping
 
@@ -73,7 +71,7 @@ _**Note:** Recurly Commercedoes not stack discounts. If both a frequency discoun
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-12-13 at 12.42.11 PM (1).png" alt=""><figcaption></figcaption></figure>
 
-_**Note:** Toggle free shipping on only if different rules should apply for subscription orders. If your storefront already has a shipping profile rule that also applies to subscription orders, do not set up free shipping inRecurly Commerce. The original shipping profile rule will apply to all orders the store receives- both one-time purchases and subscription orders._
+_**Note:** Toggle free shipping on only if different rules should apply for subscription orders. If your storefront already has a shipping profile rule that also applies to subscription orders, do not set up free shipping in Recurly Commerce. The original shipping profile rule will apply to all orders the store receives- both one-time purchases and subscription orders._
 
 Select Publish Offer in the top right hand corner and the subscription plan will be live on your site.
 

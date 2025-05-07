@@ -30,7 +30,7 @@ The coupon code will apply based on the parameters previously configured during 
 
 ![](<../.gitbook/assets/image (44).png>)
 
-The coupon code can be applied during the first subscription purchase checkout flow, or by a subscriber in their customer portal to their existing subscription contract, or in the “Customers” tab of the Recurly Commerceapp by a merchant managing a customer’s subscription contract.
+The coupon code can be applied during the first subscription purchase checkout flow, or by a subscriber in their customer portal to their existing subscription contract, or in the “Customers” tab of the Recurly Commerce app by a merchant managing a customer’s subscription contract.
 
 ### Video
 

@@ -1,7 +1,7 @@
 # ✨ Editing the Customer Portal
 
 {% hint style="info" %}
-The customer portal is where your subscribers go to manage/view their subscription contract. As a merchant, you can edit the permissions and functionality your subscriber have in their customer portal in addition to changing the style of the user interface. Navigate to the “Customer Portal” tab in the Recurly Commerceapp to make changes.
+The customer portal is where your subscribers go to manage/view their subscription contract. As a merchant, you can edit the permissions and functionality your subscriber have in their customer portal in addition to changing the style of the user interface. Navigate to the “Customer Portal” tab in the Recurly Commerce app to make changes.
 {% endhint %}
 
 ## Customer Portal Permissions

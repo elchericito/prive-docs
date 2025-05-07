@@ -1,6 +1,6 @@
 ---
 description: >-
-  WithRecurly Commerce, setting up your storefront includes insuring the subscription
+  With Recurly Commerce, setting up your storefront includes insuring the subscription
   purchase widget is appearing correctly on your e-commerce site PDPs.
 ---
 
@@ -12,7 +12,7 @@ Subscription widgets are the storefront components that allow shoppers to add a 
 
 ### Install storefront components
 
-1. Navigate to the “storefront” tab in the Recurly Commerceapp.
+1. Navigate to the “storefront” tab in the Recurly Commerce app.
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-12-13 at 1.07.35 PM.png" alt=""><figcaption></figcaption></figure>
 
@@ -20,7 +20,7 @@ Subscription widgets are the storefront components that allow shoppers to add a 
 3. Select your current Shopify theme.
 4. Select the checkbox titled “I have backed up my theme files.”
 5. Click “enable.” (This will open up the Shopify theme editor. In order, to add the widgets to your storefront, you must click SAVE in the top right hand of the theme editor.)
-6. Back in the “storefront” tab of the Recurly Commerceapp, a loading bar will appear while the widget is being installed. Once completed, the screen will refresh and a green “published” sign will appear in the top right hand corner.
+6. Back in the “storefront” tab of the Recurly Commerce app, a loading bar will appear while the widget is being installed. Once completed, the screen will refresh and a green “published” sign will appear in the top right hand corner.
 7. Navigate to a product that has an active subscription plan attached to see the widget live on your website.
 8. For more comprehensive instructions or storefronts with theme app embeds and blocks, [follow this guide](https://www.notion.so/Setting-up-your-Storefront-with-Prive-Theme-App-Embeds-and-Blocks-b89d39e6a82e4b1b89685be45aad531a?pvs=21).
 
