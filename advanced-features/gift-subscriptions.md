@@ -1,14 +1,12 @@
 ---
 description: >-
-  Build recurring revenue, brand loyalty, and convert customers into advocates.
- Recurly Commerce's End to End (E2E) Gifting Feature unlocks advanced flexibility for both
-  the gift-giver and recipient.
+  Build recurring revenue, brand loyalty, and convert customers into advocates. Recurly Commerce's End to End (E2E) Gifting Feature unlocks advanced flexibility for both the gift-giver and recipient.
 ---
 
 # 🎁 Gift Subscriptions
 
 {% hint style="info" %}
-To leverage Gift Subscriptions, visit the "Subscription Plans" tab of your Recurly Commerceapp and when creating or editing discount and cadence options, choose to toggle on "Add Gift Option" to enable.&#x20;
+To leverage Gift Subscriptions, visit the "Subscription Plans" tab of your Recurly Commerce app and when creating or editing discount and cadence options, choose to toggle on "Add Gift Option" to enable.&#x20;
 {% endhint %}
 
 ### View E2E Gifting Experience&#x20;
