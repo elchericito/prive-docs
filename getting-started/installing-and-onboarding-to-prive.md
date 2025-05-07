@@ -5,7 +5,7 @@ description: >-
   process, contact your CSM or support@recurly.com.
 ---
 
-# 🛠️ Installing & Onboarding toRecurly Commerce
+# 🛠️ Installing & Onboarding to Recurly Commerce
 
 <details>
 

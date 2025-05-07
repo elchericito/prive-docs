@@ -1,12 +1,12 @@
-# 📝 Migrating toRecurly Commerce
+# 📝 Migrating to Recurly Commerce
 
 {% hint style="info" %}
-If you already have an existing subscription business but are looking to grow your revenue or increase retention, a migration is needed. Contact our sales team to learn more about migrating toRecurly Commerce: sales@tryprive.com
+If you already have an existing subscription business but are looking to grow your revenue or increase retention, a migration is needed. Contact our sales team to learn more about migrating to Recurly Commerce: sales@recurly.com
 {% endhint %}
 
 ## Who do we migrate?
 
-Recurly Commercemigrates any merchant who has a store hosted on Shopify with at least 500 subscribers. If you are looking for a migration and have fewer than 500 subscribers, you may be subject to a one-time migration fee. Reach out to sales@tryprive.com to learn more.&#x20;
+Recurly Commercemigrates any merchant who has a store hosted on Shopify with at least 500 subscribers. If you are looking for a migration and have fewer than 500 subscribers, you may be subject to a one-time migration fee. Reach out to sales@recurly.com to learn more.&#x20;
 
 ## What is a migration like?
 
@@ -60,4 +60,4 @@ Congratulations! You have successfully migrated to Recurly Commerce🎉
 
 * Book an onboarding call with a Recurly CommerceCSM to learn the platform and close out your onboarding process.
 
-Ready to Migrate or have questions? Contact: [**sales@tryprive.com**](mailto:sales@tryprive.com)
+Ready to Migrate or have questions? Contact: [**sales@recurly.com**](mailto:sales@recurly.com)
