@@ -1,14 +1,12 @@
 ---
 description: >-
-  Excited you are here. In this knowledge base we share the most important info
-  and tips to help grow, retain, and build a long-term relationship with your
-  subscribers.
+  Excited you are here. In this knowledge base we share the most important infoinfo and tips to help grow, retain, and build a long-term relationship with info subscribers.
 ---
 
-# 👋 Welcome toRecurly Commerce
+# 👋 Welcome to Recurly Commerce
 
 {% hint style="info" %}
-Use the navigation bar on the left to find answers to your questions. Can't find what you are looking for? Send our support team a note in your Recurly Commercein-app support chat or email support@recurly.com.
+Use the navigation bar on the left to find answers to your questions. Can't find what you are looking for? Send our support team a note in your Recurly Commerce in-app support chat or email support@recurly.com.
 {% endhint %}
 
 ## Get Started
@@ -43,9 +41,9 @@ The basics for a delightful storefront and subscriber portal.&#x20;
 [editing-the-customer-portal.md](customer-portal/editing-the-customer-portal.md)
 {% endcontent-ref %}
 
-## Recurly CommerceAdmin 101&#x20;
+## Recurly Commerce Admin 101&#x20;
 
-Some quick places to start in the Recurly Commerceadmin&#x20;
+Some quick places to start in the Recurly Commerce admin&#x20;
 
 {% content-ref url="managing-subscriptions/editing-subscriptions-for-your-subscribers.md" %}
 [editing-subscriptions-for-your-subscribers.md](managing-subscriptions/editing-subscriptions-for-your-subscribers.md)
