@@ -49,7 +49,7 @@ With Recurly Commerce, you can create a subscription offer in minutes, which wil
 
 With Recurly Commerce, setting up your storefront includes insuring the subscription purchase widget is appearing correctly on your e-commerce site PDPs. To set up your storefront properly refer to the guide below.&#x20;
 
-[Broken link](broken-reference "mention")
+[setting-up-your-storefront.md](../storefront/setting-up-your-storefront.md "mention")
 
 </details>
 
