@@ -1,7 +1,7 @@
 ---
 description: >-
   Build recurring revenue, brand loyalty, and convert customers into advocates.
-  Prive's End to End (E2E) Gifting Feature unlocks advanced flexibility for both
+ Recurly Commerce's End to End (E2E) Gifting Feature unlocks advanced flexibility for both
   the gift-giver and recipient.
 ---
 
@@ -16,5 +16,5 @@ To leverage Gift Subscriptions, visit the "Subscription Plans" tab of your Recur
 {% embed url="https://www.loom.com/share/7f4411896642441eb62a442f2e7b02a6?sid=20b3a8dd-b490-4cd4-bd3c-ff696687d32b" %}
 
 {% hint style="info" %}
-Still need help? Contact cs@tryprive.com
+Still need help? Contact support@recurly.com
 {% endhint %}

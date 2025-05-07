@@ -7,5 +7,5 @@ To leverage our Bulk Updater feature, visit the "Bulk Updater" Tab of your Recur
 {% embed url="https://www.loom.com/share/3c0b632a8d844607b2759078b134b15b" %}
 
 {% hint style="info" %}
-Still need help? Contact cs@tryprive.com
+Still need help? Contact support@recurly.com
 {% endhint %}

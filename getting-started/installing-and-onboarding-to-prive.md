@@ -2,10 +2,10 @@
 description: >-
   Installing and onboarding with Recurly Commerceis a seamless process, whether you are
   new to subscriptions or migrating. If you have any questions about the
-  process, contact your CSM or cs@tryprive.com.
+  process, contact your CSM or support@recurly.com.
 ---
 
-# 🛠️ Installing & Onboarding to Prive
+# 🛠️ Installing & Onboarding toRecurly Commerce
 
 <details>
 
@@ -38,7 +38,7 @@ To purchase a plan:
 
 <summary>Step 3: Creating a subscription plan </summary>
 
-With Prive, you can create a subscription offer in minutes, which will feed into your storefront widget where your customers can add a subscription product to cart. See below for steps to create your subscription plans.&#x20;
+WithRecurly Commerce, you can create a subscription offer in minutes, which will feed into your storefront widget where your customers can add a subscription product to cart. See below for steps to create your subscription plans.&#x20;
 
 [creating-a-subscription-plan.md](../creating-and-editing-subscription-plans/creating-a-subscription-plan.md "mention")
 
@@ -48,7 +48,7 @@ With Prive, you can create a subscription offer in minutes, which will feed into
 
 <summary>Step 4: Setting up your storefront </summary>
 
-With Prive, setting up your storefront includes insuring the subscription purchase widget is appearing correctly on your e-commerce site PDPs. To set up your storefront properly refer to the guide below.&#x20;
+WithRecurly Commerce, setting up your storefront includes insuring the subscription purchase widget is appearing correctly on your e-commerce site PDPs. To set up your storefront properly refer to the guide below.&#x20;
 
 [Broken link](broken-reference "mention")
 

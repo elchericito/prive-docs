@@ -80,6 +80,6 @@ To view editing an existing subscription plan in action watch the video below
 {% embed url="https://www.loom.com/share/898c9b96d39a42f9921285096bd21e97" %}
 
 {% hint style="info" %}
-Still need help? Contact [cs@tryprive.com](mailto:cs@tryprive.com)
+Still need help? Contact [support@recurly.com](mailto:support@recurly.com)
 {% endhint %}
 

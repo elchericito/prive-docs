@@ -5,10 +5,10 @@ description: >-
   subscribers.
 ---
 
-# 👋 Welcome to Prive
+# 👋 Welcome toRecurly Commerce
 
 {% hint style="info" %}
-Use the navigation bar on the left to find answers to your questions. Can't find what you are looking for? Send our support team a note in your Recurly Commercein-app support chat or email cs@tryprive.com.
+Use the navigation bar on the left to find answers to your questions. Can't find what you are looking for? Send our support team a note in your Recurly Commercein-app support chat or email support@recurly.com.
 {% endhint %}
 
 ## Get Started

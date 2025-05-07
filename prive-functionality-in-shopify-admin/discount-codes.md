@@ -1,7 +1,7 @@
 # 💰 Discount Codes
 
 {% hint style="info" %}
-At Prive, our system reads in only existing Shopify discount codes that can be input into existing subscription contracts. Our system does not create discount codes in Prive, unlike other legacy providers. All discount codes should be created in Shopify.&#x20;
+AtRecurly Commerce, our system reads in only existing Shopify discount codes that can be input into existing subscription contracts. Our system does not create discount codes inRecurly Commerce, unlike other legacy providers. All discount codes should be created in Shopify.&#x20;
 {% endhint %}
 
 ### Creating a Discount Code in Shopify

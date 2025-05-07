@@ -7,5 +7,5 @@ Cohort analysis provides retention data around your subscriptions based on when 
 <figure><img src="../../.gitbook/assets/image (35).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Cohort analysis is only available on Pro or Enterprise plans. Want to upgrade? Contact us at cs@tryprive.com&#x20;
+Cohort analysis is only available on Pro or Enterprise plans. Want to upgrade? Contact us at support@recurly.com&#x20;
 {% endhint %}

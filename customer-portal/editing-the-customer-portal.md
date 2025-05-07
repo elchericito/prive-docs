@@ -25,5 +25,5 @@ Stylize the portal login page and customer portal by selecting a template, choos
 <figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Still need help or have questions about further customizations?  Contact cs@tryprive.com
+Still need help or have questions about further customizations?  Contact support@recurly.com
 {% endhint %}

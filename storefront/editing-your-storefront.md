@@ -3,7 +3,7 @@
 ### Edit and stylize storefront components
 
 {% hint style="info" %}
-&#x20;If you are a migrated merchant who had a custom storefront set-up, please reach out to [cs@tryprive.com](mailto:cs@tryprive.com) before implementing changes.
+&#x20;If you are a migrated merchant who had a custom storefront set-up, please reach out to [support@recurly.com](mailto:support@recurly.com) before implementing changes.
 {% endhint %}
 
 Once the storefront widget has been configured, the widget design can be customized to match the branding of your store. Be sure to click the “save and set live” button for all changes to be reflected. Make design changes such as:
@@ -19,5 +19,5 @@ Watch the video below to view how to edit the storefront widget
 {% embed url="https://www.loom.com/share/e617db94c2334defa8fdb9f925ebf5dd" %}
 
 {% hint style="info" %}
-Still need help? Contact [cs@tryprive.com](mailto:cs@tryprive.com)
+Still need help? Contact [support@recurly.com](mailto:support@recurly.com)
 {% endhint %}

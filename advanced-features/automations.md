@@ -15,5 +15,5 @@ To create one of the following automations, navigate to the “Automations” ta
 {% embed url="https://www.loom.com/share/a16340030ac94c289ec11b565c53047c" %}
 
 {% hint style="info" %}
-Still need help? Contact cs@tryprive.com
+Still need help? Contact support@recurly.com
 {% endhint %}

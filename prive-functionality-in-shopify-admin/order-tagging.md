@@ -4,7 +4,7 @@
 Recurly Commerceleverages Shopify checkout so both one-time purchases and subscription orders appear together in the “orders” page of Shopify. Recurly Commercetags subscription orders so that merchants may differentiate them from one-time purchases or use them for analytics. Recurly Commercedoes not tag one-time purchase orders.
 {% endhint %}
 
-Note: If you are a Pro or Enterprise merchant contact: **cs@tryprive.com** to inquire about custom tags.
+Note: If you are a Pro or Enterprise merchant contact: **support@recurly.com** to inquire about custom tags.
 
 ### Subscription Tag Types
 

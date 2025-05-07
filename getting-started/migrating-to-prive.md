@@ -1,7 +1,7 @@
-# 📝 Migrating to Prive
+# 📝 Migrating toRecurly Commerce
 
 {% hint style="info" %}
-If you already have an existing subscription business but are looking to grow your revenue or increase retention, a migration is needed. Contact our sales team to learn more about migrating to Prive: sales@tryprive.com
+If you already have an existing subscription business but are looking to grow your revenue or increase retention, a migration is needed. Contact our sales team to learn more about migrating toRecurly Commerce: sales@tryprive.com
 {% endhint %}
 
 ## Who do we migrate?
@@ -14,7 +14,7 @@ Recurly Commercemigrations are am automated process focused on transferring all 
 
 There is no heavy lift required from the merchant nor are there drops in data. Migrations can actually assist in increasing and recovering revenue while also retaining subscribers. Due to the automated nature of Recurly Commercemigrations, we can complete the process in a matter of days, dependent on the amount of subscribers. The Recurly Commercemigration platform is able to migrate up to 10k subscribers per day.&#x20;
 
-With Prive, there are only 6 steps required for the merchant to complete from start to finish:
+WithRecurly Commerce, there are only 6 steps required for the merchant to complete from start to finish:
 
 ## Starting your Migration
 
@@ -23,7 +23,7 @@ With Prive, there are only 6 steps required for the merchant to complete from st
 
 _**Note:** Please do not change any of the permissions we request as they all are necessary to help support your business and respond to any customer support tickets you may file._
 
-1. Book a 15-minute onboarding kick-off call with a member of the customer success team. This call is required to scope what work will be required for the migration. Contact [cs@tryprive.com](mailto:cs@tryprive.com) for more information.
+1. Book a 15-minute onboarding kick-off call with a member of the customer success team. This call is required to scope what work will be required for the migration. Contact [support@recurly.com](mailto:support@recurly.com) for more information.
 2. [**Complete the Migration Form Questionnaire**](https://docs.google.com/forms/d/e/1FAIpQLSeTDvctTNzJI3PBCi1miHTqYq7q3XYR1gcYGD6bSIlPRIxYEw/viewform) **to send API keys.**
 
 <details>

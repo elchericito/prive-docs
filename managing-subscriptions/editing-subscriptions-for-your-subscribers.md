@@ -30,7 +30,7 @@ To change the phone number for a customer select the edit square above â€œPhoneâ
 
 ### Edit Email
 
-To change a customer email address please reach out to [**cs@tryprive.com**](mailto:cs@tryprive.com)
+To change a customer email address please reach out to [**support@recurly.com**](mailto:support@recurly.com)
 
 Subscribers nor merchants can make changes at this time to email addresses because the subscription contract is tied to the email address and is used to leverage the one-time password portal. Recurly Commercecustomer support can assist with this functionality should it be needed.
 
@@ -199,7 +199,7 @@ _**Note:**_ Subscriptions under the same email cannot be separated. If a subscri
 <figure><img src="../.gitbook/assets/Screen Shot 2023-11-06 at 1.46.36 PM.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Still need help or have questions about managing subscribers?  Contact cs@tryprive.com
+Still need help or have questions about managing subscribers?  Contact support@recurly.com
 {% endhint %}
 
 ###

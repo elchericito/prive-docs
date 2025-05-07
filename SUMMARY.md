@@ -4,8 +4,8 @@
 
 ## Getting started
 
-* [🛠️ Installing & Onboarding to Prive](getting-started/installing-and-onboarding-to-prive.md)
-* [📝 Migrating to Prive](getting-started/migrating-to-prive.md)
+* [🛠️ Installing & Onboarding toRecurly Commerce](getting-started/installing-and-onboarding-to-prive.md)
+* [📝 Migrating toRecurly Commerce](getting-started/migrating-to-prive.md)
 
 ## Creating & Editing Subscription Plans
 

@@ -73,5 +73,5 @@ Forecasted average total of every subscription order for the selected period.
 </details>
 
 {% hint style="info" %}
-Forecasting is only available on Pro or Enterprise plans. Want to upgrade? Contact us at cs@tryprive.com&#x20;
+Forecasting is only available on Pro or Enterprise plans. Want to upgrade? Contact us at support@recurly.com&#x20;
 {% endhint %}

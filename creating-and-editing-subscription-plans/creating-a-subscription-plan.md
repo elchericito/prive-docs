@@ -1,6 +1,6 @@
 ---
 description: >-
-  With Prive, you can create a subscription offer in minutes, which will feed
+  WithRecurly Commerce, you can create a subscription offer in minutes, which will feed
   into your storefront widget where your customers can add a subscription
   product to cart.
 ---
@@ -73,7 +73,7 @@ _**Note:** Recurly Commercedoes not stack discounts. If both a frequency discoun
 
 <figure><img src="../.gitbook/assets/Screen Shot 2022-12-13 at 12.42.11 PM (1).png" alt=""><figcaption></figcaption></figure>
 
-_**Note:** Toggle free shipping on only if different rules should apply for subscription orders. If your storefront already has a shipping profile rule that also applies to subscription orders, do not set up free shipping in Prive. The original shipping profile rule will apply to all orders the store receives- both one-time purchases and subscription orders._
+_**Note:** Toggle free shipping on only if different rules should apply for subscription orders. If your storefront already has a shipping profile rule that also applies to subscription orders, do not set up free shipping inRecurly Commerce. The original shipping profile rule will apply to all orders the store receives- both one-time purchases and subscription orders._
 
 Select Publish Offer in the top right hand corner and the subscription plan will be live on your site.
 
@@ -84,5 +84,5 @@ Select Publish Offer in the top right hand corner and the subscription plan will
 {% embed url="https://www.loom.com/share/6d76a0c604b2499788f2d7c398f989da" %}
 
 {% hint style="info" %}
-Still need help? Contact [cs@tryprive.com](mailto:cs@tryprive.com)
+Still need help? Contact [support@recurly.com](mailto:support@recurly.com)
 {% endhint %}

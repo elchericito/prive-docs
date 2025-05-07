@@ -1,6 +1,6 @@
 ---
 description: >-
-  With Prive, setting up your storefront includes insuring the subscription
+  WithRecurly Commerce, setting up your storefront includes insuring the subscription
   purchase widget is appearing correctly on your e-commerce site PDPs.
 ---
 
@@ -37,5 +37,5 @@ Once the storefront widget has been configured, the widget design can be customi
     <figure><img src="../.gitbook/assets/Screen Shot 2022-11-08 at 7.30.17 AM.png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Still need help? Contact [cs@tryprive.com](mailto:cs@tryprive.com)
+Still need help? Contact [support@recurly.com](mailto:support@recurly.com)
 {% endhint %}
