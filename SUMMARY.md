@@ -1,6 +1,6 @@
 # Table of contents
 
-* [👋 Welcome to Prive](README.md)
+* [👋 Welcome to Recurly Commerce](README.md)
 
 ## Getting started
 
