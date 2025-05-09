@@ -1,8 +1,6 @@
 ---
 description: >-
-  Excited you are here. In this knowledge base we share the most important
-  infoinfo and tips to help grow, retain, and build a long-term relationship
-  with info subscribers.
+  Excited you are here. In this knowledge base we share the most important info and tips to help grow, retain, and build a long-term relationship with info subscribers.
 ---
 
 # 👋 Welcome to Recurly Commerce
